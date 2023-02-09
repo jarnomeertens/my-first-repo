@@ -3,3 +3,5 @@
 Dit
 ben 
 ik
+
+![Jarno Meertens](foto-linkedin.jpg)
